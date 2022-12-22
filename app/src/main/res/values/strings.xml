@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">UIController2</string>
+    <string name="textView1">表示内容</string>
+    <string name="button1">button1</string>
+    <string name="button2">button2</string>
+    <string name="switch1">スイッチ</string>
+    <string name="textNumber1">数値入力</string>
+    <string name="button3">確定</string>
+    <string name="radioButton1">wolf</string>
+    <string name="radioButton2">lion</string>
+    <string name="checkbox1">国語</string>
+    <string name="checkbox2">数学</string>
+    <string name="checkbox3">英語</string>
+    <string name="ratingBar">5stars</string>
+    <string name="image1">image1</string>
+</resources>
